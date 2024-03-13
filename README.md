@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/houssam-mnasfa-80056b247/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/MNASFA?tab=repositories" target="_blank">
+  <a href="https://mnasfa-portfolio.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
    <a href=" https://wa.me/623581831">
